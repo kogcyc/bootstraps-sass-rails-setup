@@ -1,7 +1,7 @@
 How to use the bootstrap-sass gem in Rails 3
 =========
 
-####1) Add the gem to the Gemfile and bundle
+####1) Add the gem to the Gemfile (and then run bundle to install it)
 
     gem 'bootstrap-sass'
     
